@@ -19,6 +19,7 @@
 Улучшил код сделав вывод этих данных в веб интерфейс
 <br />
 в конфиг принтера нужно добавить секцию <br />
+
 ```shell
 [temperature_sensor Ad5m_load_cell]
 sensor_type: temperature_load
