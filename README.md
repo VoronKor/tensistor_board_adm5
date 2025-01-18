@@ -24,7 +24,7 @@
 [temperature_sensor Ad5m_load_cell]
 sensor_type: temperature_load
 min_temp: -270
-max_temp: 300
+max_temp: 2048
 ```
 <br />
 
