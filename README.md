@@ -44,6 +44,8 @@ min_temp: -273
 max_temp: 2048
 
 ```
+фаил закидываете по пути ~/klipper/klippy/extras
+
 <br />
 
 <br />
