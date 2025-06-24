@@ -44,7 +44,7 @@ min_temp: -273
 max_temp: 2048
 
 ```
-фаил закидываете по пути ~/klipper/klippy/extras
+фаил "zmod_tenz.py" закидываете по пути ~/klipper/klippy/extras
 
 <br />
 
